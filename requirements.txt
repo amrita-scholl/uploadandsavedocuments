@@ -2,3 +2,12 @@ fastapi
 uvicorn[standard]
 requests
 pydantic
+fastapi
+pymongo
+neo4j
+transformers
+pymupdf 
+uvicorn
+torch
+uuid
+
